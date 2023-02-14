@@ -60,11 +60,17 @@ Pour créer une nouvelle branche :
 Ajoutez une photo, pour ajouter une photo depuis un fichier markdown (.md), vous devez écrire `![n'importe quoi ici pour indiquer le nom](chemin_relatif_de_ce_fichier/vers_le_fichier_de_l'image_en_respectant_les_dossiers_ou_sous_dossiers/monimage.jpg)`
 
 Exemple rendu final : 
+
 Steak
+
 Salade
+
 Tomate
+
 Cornichon
+
 Fromage
+
 ![img](https://www.vegetalsquare.fr/1017-large_default/fish-filets-26kg-moving-mountains.jpg)
 
 ---
