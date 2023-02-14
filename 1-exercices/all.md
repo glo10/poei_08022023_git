@@ -32,7 +32,7 @@ Pour les exercices en binôme :
 
 ![](../3-tp/img/jpg/access.jpg)
 
-3. Chacun travail sur une branche dédiée, nommez vos branches en suivant ce pattern (modèle) `feature/votreprenom/part1` pour la partie 1, ensuite `feature/votreprenom/part2` pour la partie 2 etc.
+3. Chacun travail sur une branche dédiée, nommez vos branches en suivant ce pattern (modèle) `feature/votreprenom/part1` pour la partie 1, ensuite  pour la suite , suivre les instructions de l'énoncé.
 **Attention vous devez toujours créer vos branches à partir de la branche principale `main` ou `master`**. main ou master on parle de la même chose, la convention a juste changée entre temps avant la branche principale était nommée master, aujourd'hui c'est main.
 Pour créer une nouvelle branche :
 - S'assurer d'être bien sur la branche main ou master à l'aide de la commande git branch qui doit afficher un * sur la branche courante
@@ -83,7 +83,7 @@ Fromage
 - à l'aide de la commande `git status`
 4. Ajoutez d'autres photos.
 5. Regardez l’historique de vos commits.
-- `git log` pour voir toutes les options possibles `git log --oneline`.
+- `git log` pour voir toutes les options possibles `git log --help`.
 6. Effectuez au moins 5 modifications au total sur l’ensemble de vos fichiers. Chaque modification doit donner lieu à un commit. 5 modifications = 5 commits différents.
 
 ---
